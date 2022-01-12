@@ -1,8 +1,0 @@
-﻿  SFMLTEST.cpp
-C:\Users\Oskar\source\repos\Learning\SFMLTEST\SFMLTEST\SFMLTEST.cpp(51,23): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
-          with
-          [
-              T=unsigned int
-          ]
-C:\Users\Oskar\source\repos\Learning\SFMLTEST\SFMLTEST\SFMLTEST.cpp(58,35): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
-  SFMLTEST.vcxproj -> C:\Users\Oskar\source\repos\Learning\SFMLTEST\x64\Debug\SFMLTEST.exe
